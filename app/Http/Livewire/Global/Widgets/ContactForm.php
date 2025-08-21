@@ -39,7 +39,7 @@ class ContactForm extends Component
     public function sending(): void
     {
         $emailData = [
-            'to' => 'alina.stone@t-online.de',
+            'to' => 'kontakt@alina-steinhauer.de',
             'subject' => 'Kontaktanfrage über Webseite',
             'viewTemplate' => 'global.mails.contact-form',
             'first_name' => $this->first_name,
