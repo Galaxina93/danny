@@ -19,7 +19,7 @@
                             </p>
 
                             <p class="mt-6 text-lg leading-8 text-gray-600">
-                                Photovoltaikanlagen (PV-Anlagen) und Industrianlagen sind komplexe Systeme, die einer regelmäßigen Prüfung und Wartung bedürfen. Nur so kann sichergestellt werden, dass die Anlagen effizient und sicher arbeiten und den höchstmöglichen Ertrag liefern.
+                                Photovoltaikanlagen und Industrianlagen sind komplexe Systeme, die einer regelmäßigen Prüfung und Wartung bedürfen. Nur so kann sichergestellt werden, dass die Anlagen effizient und sicher arbeiten und den höchstmöglichen Ertrag liefern.
                             </p>
 
                             <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">

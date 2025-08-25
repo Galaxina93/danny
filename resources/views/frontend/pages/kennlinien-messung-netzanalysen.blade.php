@@ -20,7 +20,7 @@
 
                             <p class="mt-6 text-lg leading-8 text-gray-600">
                                 Die Kennlinienmessung ist ein wichtiges Verfahren zur Analyse der
-                                Leistung von Photovoltaik-Anlagen (PV-Anlagen). Mit Hilfe dieser Messung
+                                Leistung von Photovoltaikanlagen. Mit Hilfe dieser Messung
                                 können Fehlerquellen identifiziert und die Anlage optimiert werden, um den höchstmöglichen Ertrag zu erzielen.
                                 Die Thermografie ist ein bildgebenes Verfahren, das Wärmestrahlung sichtbar macht um
                                 Temperaturunterschiede auf Oberflächen zu erfassen.
