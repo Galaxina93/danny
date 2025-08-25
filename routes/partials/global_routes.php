@@ -23,11 +23,11 @@ Route::get('/pv-anlagen', function () {
 Route::get('/batteriespeicher', function () {
     return view('frontend/pages/batteriespeicher');
 });
-Route::get('/vor-ort-service-pv-anlagen', function () {
-    return view('frontend/pages/vor-ort-service-pv-anlagen');
+Route::get('/vor-ort-service-pv-anlagen-industrieanlagen', function () {
+    return view('frontend/pages/vor-ort-service-pv-anlagen-industrieanlagen');
 });
-Route::get('/vor-ort-service-industrieanlagen', function () {
-    return view('frontend/pages/vor-ort-service-industrieanlagen');
+Route::get('/vor-ort-service-trafostationen', function () {
+    return view('frontend/pages/vor-ort-service-trafostationen');
 });
 Route::get('/schaltschrankbau', function () {
     return view('frontend/pages/schaltschrankbau');

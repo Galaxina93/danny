@@ -38,54 +38,59 @@
 
         <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl mb-8">Unsere bisherige Geschichte!</h2>
 
-            <ol class="relative border-s border-gray-200 dark:border-gray-700">
-                <li class="mb-10 ms-4">
-                    <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                    <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2014</time>
-                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Start im Nebenerwerb</h3>
-                    <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Vertrieb E-Material</p>
-                </li>
-                <li class="mb-10 ms-4">
-                    <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                    <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2016</time>
-                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Gründung Mann Elektrotechnik/ Erd und Tiefbau</h3>
-                </li>
-                <li class="mb-10 ms-4">
-                    <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                    <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2021</time>
-                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Änderung der Gesellschaftsform</h3>
-                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Mann Elektrotechnik/ Erd und Tiefbau GmbH</p>
-                </li>
-                <li class="mb-10 ms-4">
-                    <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                    <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2023</time>
-                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Kauf und Bebauung des ersten Betriebsgeländes</h3>
-                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Ilsede</p>
-                </li>
-                <li class="mb-10 ms-4">
-                    <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                    <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2023</time>
-                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Ausgliederung der Bau-Tätigkeit</h3>
-                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Mann Immobilien GmbH</p>
-                </li>
-                <li class="ms-4">
-                    <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
-                    <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2023</time>
-                    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Namensänderung</h3>
-                    <p class="text-base font-normal text-gray-500 dark:text-gray-400">Mann Elektrotechnik GmbH</p>
-                </li>
-            </ol>
+        <ol class="relative border-s border-gray-200 dark:border-gray-700">
+            <li class="mb-10 ms-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2014</time>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Start im Nebenerwerb - Vertrieb E-Material</h3>
+            </li>
+            <li class="mb-10 ms-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2018</time>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Gründung Mann Elektrotechnik / Erd und Tiefbau</h3>
+            </li>
+            <li class="mb-10 ms-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2021</time>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Änderung der Gesellschaftsform - Mann Elektrotechnik / Erd und Tiefbau GmbH</h3>
+            </li>
+            <li class="mb-10 ms-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2023</time>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Kauf und Bebauung des ersten Betriebsgeländes - Ilsede</h3>
+            </li>
+            <li class="mb-10 ms-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2023</time>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Ausgliederung der Bau-Tätigkeit - Mann Immobilien GmbH</h3>
+            </li>
+            <li class="ms-4">
+                <div class="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
+                <time class="mb-1 text-base font-normal leading-none text-gray-400 dark:text-gray-500">2023</time>
+                <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Namensänderung - Mann Elektrotechnik GmbH</h3>
+            </li>
+        </ol>
 
-            <div class="pt-8">
-                <p class="text-lg text-gray-500 dark:text-gray-400">Anfangs als klassischer Installationsbetrieb gestartet mit den Schwerpunkten Hausinstallation Einfamilienhaus+Mehrfamilienhaus/TV und Netzwerktechnik haben wir uns mittlerweile komplett der Energiewende gewidmet:</p>
-                <ul class="list-disc ml-5 text-base text-gray-500 dark:text-gray-400">
-                    <li>PV-Anlagen</li>
-                    <li>Heim- und Gewerbespeicher</li>
-                    <li>Wallboxen</li>
-                    <li>Wärmepumpen</li>
-                </ul>
-                <p class="text-lg text-gray-500 dark:text-gray-400 pt-4">Mittlerweile sind wir lizensierter Fachpartner von namhaften Herstellern wie SMA, Tesvolt, SolarEdge, Viessmann und weiteren Herstellern. Die anzuschließenden Projekte variieren vom Einfamilienhaus bis zum Megawatt-Projekt. Des Weiteren sind die Sparten Mobile Trafostationen und Schaltschrankbau hinzugekommen.</p>
-            </div>
+        <div class="pt-8">
+            <p class="text-lg ">
+                Anfangs als klassischer Installationsbetrieb gestartet mit den Schwerpunkten Hausinstallation
+                Einfamilienhaus + Mehrfamilienhaus / TV und Netzwerktechnik haben wir uns mittlerweile komplett
+                der Energiewende gewidmet:
+            </p>
+            <ul class="list-disc ml-5 text-base ">
+                <li>PV-Anlagen</li>
+                <li>Heim- und Gewerbespeicher</li>
+                <li>Wallboxen</li>
+                <li>Wärmepumpen</li>
+            </ul>
+            <p class="text-lg pt-4">
+                Mittlerweile sind wir lizensierter Fachpartner von namhaften Herstellern wie SMA, Tesvolt, SolarEdge,
+                Viessmann und weiteren Herstellern. Die anzuschließenden Projekte variieren vom Einfamilienhaus
+                bis zum Megawatt-Projekt. Des Weiteren sind die Sparten Mobile Trafostationen und Schaltschrankbau hinzugekommen.
+            </p>
+        </div>
+
+
 
     </x-sections.page-container>
 

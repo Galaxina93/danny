@@ -1,7 +1,7 @@
 <div class="mx-auto bg-white dark:bg-gray-900 pt-6">
 
     <div class="flex justify-center">
-        <a href="/" class="md:hidden w-1/3 md:w-14 lg:w-16"><img src="{{ URL::to('/images/logo/logo.png') }}" alt="main_logo"></a>
+        <a href="/" class="md:hidden w-1/2 md:w-14 lg:w-16"><img src="{{ URL::to('/images/logo/logo.png') }}" alt="main_logo"></a>
     </div>
 
     @php
@@ -133,7 +133,7 @@
     <nav class="bg-white border-gray-200 dark:border-gray-600 dark:bg-gray-900">
         <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl p-4">
             <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse hidden md:block">
-                <img src="{{ URL::to('/images/logo/logo.png') }}" alt="second_logo" class="w-36">
+                <img src="{{ URL::to('/images/logo/logo.png') }}" alt="second_logo" class="w-48">
             </a>
 
             <div class="md:hidden">
@@ -230,12 +230,12 @@
                         </a>
                     </li>
                     <li>
-                        <a href="{{ url('/vor-ort-service-pv-anlagen') }}" class="flex flex-col items-center p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">
+                        <a href="{{ url('/vor-ort-service-pv-anlagen-industrieanlagen') }}" class="flex flex-col items-center p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">
                             <div class="w-full h-32 flex items-center justify-center mb-3">
                                 <img src="{{ URL::to('/images/pv/4.1.jpg') }}" class="w-full h-full object-cover" alt="preview">
                             </div>
                             <div class="text-center">
-                                <div class="font-semibold">Vor-Ort Service & Prüfung PV-Anlagen</div>
+                                <div class="font-semibold">Vor-Ort Service & Prüfung PV-Anlagen und Industrieanlagen</div>
                             </div>
                         </a>
                     </li>
@@ -252,12 +252,12 @@
                         </a>
                     </li>
                     <li>
-                        <a href="{{ url('/vor-ort-service-industrieanlagen') }}" class="flex flex-col items-center p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">
+                        <a href="{{ url('/vor-ort-service-trafostationen') }}" class="flex flex-col items-center p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">
                             <div class="w-full h-32 flex items-center justify-center mb-3">
                                 <img src="{{ URL::to('/images/pv/5.1.jpg') }}" class="w-full h-full object-cover" alt="preview">
                             </div>
                             <div class="text-center">
-                                <div class="font-semibold">Vor-Ort Service & Prüfung Industrieanlagen</div>
+                                <div class="font-semibold">Vor-Ort Service & Prüfung Trafostationen</div>
                             </div>
                         </a>
                     </li>

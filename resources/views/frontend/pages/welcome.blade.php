@@ -140,9 +140,9 @@
                             <img class="h-48 w-full object-cover object-center" src="{{ URL::to('/images/pv/4.1.jpg') }}" alt="Bild">
                         </div>
                         <div class="p-6">
-                            <h3 class="text-lg font-semibold text-gray-900">Vor-Ort Service & Prüfung PV-Anlagen</h3>
+                            <h3 class="text-lg font-semibold text-gray-900">Vor-Ort Service & Prüfung PV-Anlagen und Industrieanlagen</h3>
                             <p class="mt-4 text-base text-gray-600">
-                                Photovoltaikanlagen (PV-Anlagen) und Industrianlagen sind komplexe Systeme, die einer regelmäßigen Prüfung und Wartung bedürfen. Nur so kann sichergestellt werden, dass die Anlagen effizient und sicher arbeiten und den höchstmöglichen Ertrag liefern.
+                                Photovoltaikanlagen sind komplexe Systeme, die einer regelmäßigen Prüfung und Wartung bedürfen. Nur so kann sichergestellt werden, dass die Anlagen effizient und sicher arbeiten und den höchstmöglichen Ertrag liefern.
                             </p>
                             <div class="mt-6">
                                 <a href="{{ url('/vor-ort-service-pv-anlagen') }}" target="_blank" class="text-sm font-semibold leading-6 text-primary hover:opacity-70">
