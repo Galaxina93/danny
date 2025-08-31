@@ -18,8 +18,17 @@
                                 Vor-Ort Service & Prüfung PV-Anlagen
                             </p>
 
-                            <p class="mt-6 text-lg leading-8 text-gray-600">
+                            {{--<p class="mt-6 text-lg leading-8 text-gray-600">
                                 Photovoltaikanlagen sind komplexe Systeme, die einer regelmäßigen Prüfung und Wartung bedürfen. Nur so kann sichergestellt werden, dass die Anlagen effizient und sicher arbeiten und den höchstmöglichen Ertrag liefern.
+                            </p>--}}
+
+                            <p class="mt-6 text-lg leading-8 text-gray-600">
+                                Gemäß Bedingungen des VDEs (Verband deutscher Elektrotechnik) und DGUV Vorschrift 3
+                                Unfallverhütungsvorschriften der Berufsgenossenschaft, ist die Pflicht des Betreibers seine
+                                elektrische Anlagen und Betriebsmittel in bestimmten Zeitabständen auf ihren
+                                ordnungsgemäßen Zustand überprüfen zu lassen. Außerdem erhöhen "regelmäßige" durchgeführte
+                                Revisionen durch fachkundiges Personal die Betriebssicherheit der elektrischen
+                                Anlage. Dadurch lassen sich unnötige und oft teure Betriebsstörungen vermeiden.
                             </p>
 
                             <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">
@@ -83,10 +92,19 @@
                                 Vor-Ort Service & Prüfung von Industrieanlagen
                             </p>
 
-                            <p class="mt-6 text-lg leading-8 text-gray-600">
+                            {{--<p class="mt-6 text-lg leading-8 text-gray-600">
                                 Industrieanlagen sind hochkomplexe Systeme, die zuverlässig und sicher funktionieren müssen.
                                 Durch regelmäßige Prüfungen und Wartungen vor Ort stellen wir sicher, dass Ihre Anlagen die geltenden Sicherheits- und Qualitätsstandards erfüllen,
                                 Ausfallzeiten minimiert werden und die Produktivität Ihres Betriebs gewährleistet bleibt.
+                            </p>--}}
+
+                            <p class="mt-6 text-lg leading-8 text-gray-600">
+                                Gemäß Bedingungen des VDEs (Verband deutscher Elektrotechnik) und DGUV Vorschrift 3
+                                Unfallverhütungsvorschriften der Berufsgenossenschaft, ist die Pflicht des Betreibers seine
+                                elektrische Anlagen und Betriebsmittel in bestimmten Zeitabständen auf ihren
+                                ordnungsgemäßen Zustand überprüfen zu lassen. Außerdem erhöhen "regelmäßige" durchgeführte
+                                Revisionen durch fachkundiges Personal die Betriebssicherheit der elektrischen
+                                Anlage. Dadurch lassen sich unnötige und oft teure Betriebsstörungen vermeiden.
                             </p>
 
                             <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">
@@ -97,11 +115,11 @@
                                              viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
                                         </svg>
-                                        Vor-Ort Prüfungen
+                                        Prüfung und Wartung
                                     </dt>
                                     <dd class="inline">
-                                        Unsere Experten führen alle Prüfungen direkt bei Ihnen vor Ort durch – nach den aktuellsten Normen, Richtlinien und gesetzlichen Vorgaben.
-                                        So stellen wir die Betriebssicherheit und die Funktionsfähigkeit Ihrer Industrieanlagen sicher.
+                                        Wir prüfen und warten Ihre Niederspannungshauptverteilungen, Haupt- und Leistungsschalter,
+                                        sowie Steckdosen und andere elektrische Betriebsmittel.
                                     </dd>
                                 </div>
 
@@ -111,11 +129,11 @@
                                              viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 12.75 6 6 9-13.5" />
                                         </svg>
-                                        Wartung & Instandhaltung
+                                        Fehlersuche und Störungen
                                     </dt>
                                     <dd class="inline">
-                                        Neben den Prüfungen übernehmen wir die fachgerechte Wartung und Instandhaltung Ihrer Industrieanlagen.
-                                        Dadurch verlängern wir die Lebensdauer Ihrer Systeme und reduzieren Stillstandzeiten.
+                                        Egal ob Kieswerk oder Produktionsstraße, wir überprüfen Ihre elektrischen Verbraucher
+                                        wie Förderbänder, Sägen, Kräne oder Stromverteiler.
                                     </dd>
                                 </div>
 
@@ -125,21 +143,21 @@
                                              viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round"
                                                   d="M9 12.75 11.25 15 15 9.75m-3-7.036A11.959 11.959 0 0 1 3.598 6
-                                 11.99 11.99 0 0 0 3 9.749c0 5.592 3.824 10.29 9 11.623
-                                 5.176-1.332 9-6.03 9-11.622
-                                 0-1.31-.21-2.571-.598-3.751h-.152
-                                 c-3.196 0-6.1-1.248-8.25-3.285Z" />
+                         11.99 11.99 0 0 0 3 9.749c0 5.592 3.824 10.29 9 11.623
+                         5.176-1.332 9-6.03 9-11.622
+                         0-1.31-.21-2.571-.598-3.751h-.152
+                         c-3.196 0-6.1-1.248-8.25-3.285Z" />
                                         </svg>
-                                        Sicherheit & Verfügbarkeit
+                                        Sicherheit
                                     </dt>
                                     <dd class="inline">
-                                        Regelmäßige Vor-Ort Prüfungen und Wartungen erhöhen nicht nur die Betriebssicherheit,
-                                        sondern sichern auch die langfristige Verfügbarkeit Ihrer Industrieanlagen.
-                                        So minimieren Sie das Risiko von Störungen und Unfällen.
+                                        Durch die regelmäßige Prüfung und Wartung Ihrer Anlagen minimieren Sie das Risiko
+                                        von Ausfällen und Unfällen.
                                     </dd>
                                 </div>
 
                             </dl>
+
                         </div>
                     </div>
 
