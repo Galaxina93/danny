@@ -86,7 +86,7 @@
             <p class="text-lg pt-4">
                 Mittlerweile sind wir lizensierter Fachpartner von namhaften Herstellern wie SMA, Tesvolt, SolarEdge,
                 Viessmann und weiteren Herstellern. Die anzuschließenden Projekte variieren vom Einfamilienhaus
-                bis zum Megawatt-Projekt. Des Weiteren sind die Sparten Mobile Trafostationen und Schaltschrankbau hinzugekommen.
+                bis zum Megawatt-Projekt. Desweiteren sind die Sparten Mobile Trafostationen und Schaltschrankbau hinzugekommen.
             </p>
         </div>
 

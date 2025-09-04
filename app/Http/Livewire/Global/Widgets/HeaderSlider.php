@@ -17,8 +17,8 @@ class HeaderSlider extends Component
     ];
 
     public array $config = [
-        'width' => '1920px',
-        'height' => '800px',
+        /*'width' => '1920px',
+        'height' => '800px',*/
         'pagination_active' => false,
         'navigation_active' => false,
         'scrollbar_active' => false,

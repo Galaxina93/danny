@@ -186,7 +186,7 @@
                         <div class="lg:max-w-lg">
 
                             <h2 class="text-base font-semibold leading-7 text-primary">
-                                Regelmäßige Überprüfungen sind sehr wichtig!
+                                Regelmäßige Überprüfungen sind vom Gesetzgeber vorgeschrieben!
                             </h2>
 
                             <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
@@ -488,7 +488,7 @@
                             </p>
 
                             <p class="mt-6 text-lg leading-8 text-gray-600">
-                                Sie benötigen kurzfristig eine mobile Stromversorgung für ein Event, eine Baustelle oder einen anderen Einsatzort? Mit unseren Leihgeräten sind Sie flexibel und zuverlässig gerüstet, um Ihren hohen Energiebedarf zu decken.
+                                Sie benötigen kurzfristig eine mobile Stromversorgung für ein Event, eine Baustelle oder einen anderen Einsatzort ? Mit unseren Leihgeräten sind sie flexibel und zuverlässig ausgerüstet.
                             </p>
 
                             <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">

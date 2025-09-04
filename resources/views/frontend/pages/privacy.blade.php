@@ -433,7 +433,7 @@
                                 lassen.
                                 Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen,
                                 erfolgt dies nur, soweit es technisch möglich ist. Wenn Sie hierzu weitere Fragen haben,
-                                können Sie sich jederzeit unter der oben angegebenen Adresse an uns wenden. Des Weiteren
+                                können Sie sich jederzeit unter der oben angegebenen Adresse an uns wenden. Desweiteren
                                 steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
                                 Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der
                                 Landesdatenschutzbeauftragte des Bundeslandes,

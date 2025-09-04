@@ -10,7 +10,7 @@
                         <div class="lg:max-w-lg">
 
                             <h2 class="text-base font-semibold leading-7 text-primary">
-                                Regelmäßige Überprüfungen sind sehr wichtig!
+                                Regelmäßige Überprüfungen sind vom Gesetzgeber vorgeschrieben!
                             </h2>
 
                             <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">

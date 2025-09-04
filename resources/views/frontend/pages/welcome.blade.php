@@ -35,7 +35,6 @@
             <div class="absolute inset-x-0 bottom-0 -z-10 h-24 bg-gradient-to-t from-white sm:h-32"></div>
         </div>
 
-
         <div class="relative mx-auto max-w-7xl px-6 lg:px-8">
             <div class="mx-auto max-w-2xl lg:text-center">
 
@@ -145,7 +144,7 @@
                                 Photovoltaikanlagen sind komplexe Systeme, die einer regelmäßigen Prüfung und Wartung bedürfen. Nur so kann sichergestellt werden, dass die Anlagen effizient und sicher arbeiten und den höchstmöglichen Ertrag liefern.
                             </p>
                             <div class="mt-6">
-                                <a href="{{ url('/vor-ort-service-pv-anlagen') }}" target="_blank" class="text-sm font-semibold leading-6 text-primary hover:opacity-70">
+                                <a href="{{ url('/vor-ort-service-pv-anlagen-industrieanlagen') }}" target="_blank" class="text-sm font-semibold leading-6 text-primary hover:opacity-70">
                                     Mehr erfahren <span aria-hidden="true">→</span>
                                 </a>
                             </div>
@@ -154,7 +153,7 @@
 
                     <div class="bg-white rounded-lg shadow-lg hover:shadow-xl transform hover:scale-105 duration-300">
                         <div class="flex-shrink-0">
-                            <img class="h-48 w-full object-cover object-center" src="{{ URL::to('/images/pv/5.1.jpg') }}" alt="Bild">
+                            <img class="h-48 w-full object-cover object-center" src="{{ URL::to('/images/pv/11.2.jpg') }}" alt="Bild">
                         </div>
                         <div class="p-6">
                             <h3 class="text-lg font-semibold text-gray-900">Vor-Ort Service & Prüfung Trafostationen</h3>
@@ -176,7 +175,7 @@
                         <div class="p-6">
                             <h3 class="text-lg font-semibold text-gray-900">Leihgeräte & Mobile Stromversorgung</h3>
                             <p class="mt-4 text-base text-gray-600">
-                                Sie benötigen kurzfristig eine mobile Stromversorgung für ein Event, eine Baustelle oder einen anderen Einsatzort? Mit unseren Leihgeräten sind Sie flexibel und zuverlässig gerüstet, um Ihren hohen Energiebedarf zu decken.
+                                Sie benötigen kurzfristig eine mobile Stromversorgung für ein Event, eine Baustelle oder einen anderen Einsatzort ? Mit unseren Leihgeräten sind sie flexibel und zuverlässig ausgerüstet.
                             </p>
                             <div class="mt-6">
                                 <a href="{{ url('/leih-geraete-stromversorgung') }}" target="_blank" class="text-sm font-semibold leading-6 text-primary hover:opacity-70">
@@ -189,7 +188,6 @@
                 </dl>
             </div>
         </div>
-
 
         <div class="py-24">
             <div class="mx-auto max-w-7xl px-6 lg:px-8">
